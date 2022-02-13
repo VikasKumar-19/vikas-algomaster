@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vikas-algomaster
 - 👀 I’m interested in buiding sites
-- 🌱 I’m currently learning data structures and alogorithms
+- 🌱 I’m currently learning backend tecnologies
 - 💞️ I’m looking to collaborate on some good industries
-- 📫 
+- 📫 I also have industry work experience
 
 <!---
 vikas-algomaster/vikas-algomaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
