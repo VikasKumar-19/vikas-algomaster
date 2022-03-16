@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vikas-algomaster
-- 👀 I’m interested in buiding sites
+- 👀 I like to build web sites and web apps
 - 🌱 I’m currently learning backend tecnologies
-- 💞️ I’m looking to collaborate on some good industries
+- 💞️ I’m looking to collaborate on some good projects
 - 📫 I also have industry work experience
 
 <!---
